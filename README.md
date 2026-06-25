@@ -20,12 +20,8 @@ with reproducible, accessible and scalable workflows (built to nf-core standards
 
 ### 📄 CV & links
 
-- **CV:** [chriswyatt1.github.io/cv](https://chriswyatt1.github.io/cv/cv.pdf) — built from LaTeX via GitHub Actions
-- **Publications:** full list on [ResearchGate](https://www.researchgate.net/profile/Christopher-Wyatt-5)
+- **CV:** [chriswyatt1.github.io/cv](https://chriswyatt1.github.io/cv/cv.pdf) — full publication list included, built from LaTeX via GitHub Actions
+- **ORCID:** [0000-0001-8033-2213](https://orcid.org/0000-0001-8033-2213)
+- **ResearchGate:** [Christopher Wyatt](https://www.researchgate.net/profile/Christopher-Wyatt-5)
+- **LinkedIn:** [christopher-wyatt](https://www.linkedin.com/in/christopher-wyatt-653800235)
 - **Email:** cw13722@gmail.com
-
-<!--
-  Optional additions once you have them:
-  - **ORCID:** https://orcid.org/0000-0000-0000-0000
-  - **Google Scholar:** https://scholar.google.com/citations?user=XXXX
--->
