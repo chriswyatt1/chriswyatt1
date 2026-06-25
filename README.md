@@ -11,7 +11,7 @@ workflows for high-throughput sequencing data — and care a lot about making sc
 
 ### 🌿 Eco-Flow
 
-I help build **[Eco-Flow](https://eco-flow.github.io/)** — a BBSRC-funded community developing
+I built **[Eco-Flow](https://eco-flow.github.io/)** — a BBSRC-funded community developing
 open-source Nextflow pipelines for **agri-ecology**, aiming to close *"the omics gap in ecology"*
 with reproducible, accessible and scalable workflows (built to nf-core standards, tested with nf-test).
 
