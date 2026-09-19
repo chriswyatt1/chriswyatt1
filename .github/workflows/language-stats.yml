@@ -1,0 +1,39 @@
+name: Language stats
+
+on:
+  schedule:
+    - cron: "17 5 * * 1" # Mondays, 05:17 UTC
+  workflow_dispatch:
+    inputs:
+      full_refresh:
+        description: Re-list every repo from the start (slow; use after changing the language map)
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: language-stats
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Build chart
+        env:
+          # Optional STATS_TOKEN secret (a PAT) lifts the rate limit and, with
+          # INCLUDE_PRIVATE, counts private repos. The default token covers public ones.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || github.token }}
+          FULL_REFRESH: ${{ inputs.full_refresh }}
+        run: python3 .github/scripts/language_stats.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats
+          git diff --cached --quiet || git commit -m "Update language stats"
+          git push

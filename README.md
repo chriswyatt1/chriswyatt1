@@ -9,6 +9,11 @@ workflows for sequencing and phenotypic data — and care a lot about making sci
 - 🛠️ Nextflow / nf-core pipelines · Unix · R · Perl · Python
 - 🐝 PhD at the CRG (Barcelona); postdoc at UCL on wasp caste evolution; pipeline work at Seqera Labs
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats/languages-dark.svg">
+  <img alt="Languages I write: share of my commits by language, all time vs the last 3 months" src="stats/languages-light.svg" width="800">
+</picture>
+
 ### 🌿 Eco-Flow
 
 I lead **[Eco-Flow](https://eco-flow.github.io/)** — a
