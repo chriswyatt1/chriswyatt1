@@ -1,33 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="348" viewBox="0 0 800 348" role="img" aria-labelledby="title desc">
 <title id="title">Languages I write</title>
-<desc id="desc">All time: Nextflow 49%, Perl 11%, R 8.4%, Dockerfile 8.2%, Python 7.8%, HTML 6.9%, CSS 3.2%, Other 5.2%; Last 3 months: Nextflow 31%, Perl 0.9%, R 10%, Dockerfile 2.3%, Python 18%, HTML 20%, CSS 12%, Other 5.2%</desc>
+<desc id="desc">All time: Nextflow 49%, Perl 11%, R 8.4%, Dockerfile 8.2%, Python 7.9%, HTML 6.9%, CSS 3.2%, Other 5.2%; Last 3 months: Nextflow 31%, Perl 0.9%, R 10%, Dockerfile 2.3%, Python 18%, HTML 20%, CSS 12%, Other 5.1%</desc>
 <style>text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}.t{font-size:16px;font-weight:600;fill:#1f2328}.h{font-size:13px;font-weight:600;fill:#1f2328}.s{font-size:12px;fill:#59636e}.c{font-size:11px;fill:#59636e}.l{font-size:13px;fill:#1f2328}.v{font-size:13px;fill:#59636e;font-variant-numeric:tabular-nums}.g{stroke:#d0d7de;stroke-width:1;opacity:.6}</style>
 <rect x="0.5" y="0.5" width="799" height="347" rx="6" fill="#ffffff" stroke="#d0d7de"/>
 <text x="24" y="40" class="t">Languages I write</text>
 <text x="24" y="60" class="s">Share of my commits by language, across public repos · updated 19 Sep 2026</text>
 <text x="24" y="97" class="h">All time</text>
-<text x="776" y="97" class="s" text-anchor="end">1,374 commits · since 2020</text>
+<text x="776" y="97" class="s" text-anchor="end">1,375 commits · since 2020</text>
 <clipPath id="bar0"><rect x="24" y="106" width="752" height="14" rx="4"/></clipPath><g clip-path="url(#bar0)">
-<rect x="24.00" y="106" width="359.72" height="14" fill="#2a78d6"/>
-<rect x="385.72" y="106" width="84.86" height="14" fill="#eb6834"/>
-<rect x="472.58" y="106" width="62.04" height="14" fill="#1baf7a"/>
-<rect x="536.62" y="106" width="60.80" height="14" fill="#eda100"/>
-<rect x="599.42" y="106" width="57.48" height="14" fill="#e87ba4"/>
-<rect x="658.91" y="106" width="50.61" height="14" fill="#008300"/>
-<rect x="711.52" y="106" width="23.89" height="14" fill="#4a3aa7"/>
-<rect x="737.40" y="106" width="38.60" height="14" fill="#a3a29b"/>
+<rect x="24.00" y="106" width="359.46" height="14" fill="#2a78d6"/>
+<rect x="385.46" y="106" width="84.79" height="14" fill="#eb6834"/>
+<rect x="472.25" y="106" width="62.00" height="14" fill="#1baf7a"/>
+<rect x="536.25" y="106" width="60.76" height="14" fill="#eda100"/>
+<rect x="599.01" y="106" width="57.98" height="14" fill="#e87ba4"/>
+<rect x="658.99" y="106" width="50.57" height="14" fill="#008300"/>
+<rect x="711.56" y="106" width="23.87" height="14" fill="#4a3aa7"/>
+<rect x="737.43" y="106" width="38.57" height="14" fill="#a3a29b"/>
 </g>
 <text x="24" y="155" class="h">Last 3 months</text>
-<text x="776" y="155" class="s" text-anchor="end">351 commits</text>
+<text x="776" y="155" class="s" text-anchor="end">352 commits</text>
 <clipPath id="bar1"><rect x="24" y="164" width="752" height="14" rx="4"/></clipPath><g clip-path="url(#bar1)">
-<rect x="24.00" y="164" width="232.28" height="14" fill="#2a78d6"/>
-<rect x="258.28" y="164" width="6.65" height="14" fill="#eb6834"/>
-<rect x="266.94" y="164" width="75.77" height="14" fill="#1baf7a"/>
-<rect x="344.71" y="164" width="16.82" height="14" fill="#eda100"/>
-<rect x="363.53" y="164" width="129.52" height="14" fill="#e87ba4"/>
-<rect x="495.06" y="164" width="149.64" height="14" fill="#008300"/>
-<rect x="646.69" y="164" width="89.29" height="14" fill="#4a3aa7"/>
-<rect x="737.99" y="164" width="38.01" height="14" fill="#a3a29b"/>
+<rect x="24.00" y="164" width="231.62" height="14" fill="#2a78d6"/>
+<rect x="257.62" y="164" width="6.64" height="14" fill="#eb6834"/>
+<rect x="266.26" y="164" width="75.56" height="14" fill="#1baf7a"/>
+<rect x="343.82" y="164" width="16.77" height="14" fill="#eda100"/>
+<rect x="362.59" y="164" width="131.25" height="14" fill="#e87ba4"/>
+<rect x="495.84" y="164" width="149.21" height="14" fill="#008300"/>
+<rect x="647.05" y="164" width="89.04" height="14" fill="#4a3aa7"/>
+<rect x="738.09" y="164" width="37.91" height="14" fill="#a3a29b"/>
 </g>
 <text x="314.0" y="214" class="c" text-anchor="end">All time</text>
 <text x="384.0" y="214" class="c" text-anchor="end">3 months</text>
@@ -56,7 +56,7 @@
 <line x1="416.0" y1="246" x2="776.0" y2="246" class="g"/>
 <rect x="416.0" y="228" width="10" height="10" rx="2" fill="#e87ba4"/>
 <text x="434.0" y="238" class="l">Python</text>
-<text x="706.0" y="238" class="v" text-anchor="end">7.8%</text>
+<text x="706.0" y="238" class="v" text-anchor="end">7.9%</text>
 <text x="776.0" y="238" class="v" text-anchor="end">18%</text>
 <line x1="416.0" y1="272" x2="776.0" y2="272" class="g"/>
 <rect x="416.0" y="254" width="10" height="10" rx="2" fill="#008300"/>
@@ -72,5 +72,5 @@
 <rect x="416.0" y="306" width="10" height="10" rx="2" fill="#a3a29b"/>
 <text x="434.0" y="316" class="l">Other</text>
 <text x="706.0" y="316" class="v" text-anchor="end">5.2%</text>
-<text x="776.0" y="316" class="v" text-anchor="end">5.2%</text>
+<text x="776.0" y="316" class="v" text-anchor="end">5.1%</text>
 </svg>
